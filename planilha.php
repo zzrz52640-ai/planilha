@@ -1,5 +1,5 @@
 <?php
-// Array bidimensional: cada aluno possui nome e quatro notas bimestrais.
+// Array bidimensional
 $alunos = [
     ["nome" => "Ana Souza",     "notas" => [7.5, 8.0, 6.5, 9.0]],
     ["nome" => "Bruno Lima",    "notas" => [5.0, 6.0, 5.5, 6.5]],
